@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "11", 
+        "11"     
+    ],
+    
+    "key":
+    {
+        "1":
+        {
+            "item": "endex:lormyte_crystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:smooth_lormyte",
+        "count": 4
+    }
+}

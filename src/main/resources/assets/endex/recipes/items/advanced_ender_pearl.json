@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "endex:end_essence"
+    }
+  ],
+  "result": 
+    {
+        "item": "endex:advanced_ender_pearl",
+        "count": 1
+    }
+}

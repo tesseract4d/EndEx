@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "000", 
+        "010",
+        "000"      
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "minecraft:glass"
+        },
+	"1":
+        {
+            "item": "endex:end_essence"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:phantom",
+        "count": 16
+    }
+}

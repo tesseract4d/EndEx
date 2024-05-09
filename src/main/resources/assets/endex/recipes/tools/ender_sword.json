@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "242",
+        "202",
+        " 1 "        
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "endex:tool_sword_endorium"
+        },
+        
+        "1":
+        {
+            "item": "endex:sword_shard"
+        },
+
+	"2":
+        {
+            "item": "endex:ingot_endorium"
+        },
+
+	"4":
+        {
+            "item": "endex:ender_string"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:ender_sword",
+        "count": 1
+    }
+}

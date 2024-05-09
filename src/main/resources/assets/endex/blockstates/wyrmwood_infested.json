@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": {
+            "model": "endex:wyrmwood_log"
+        },
+        "inventory": {
+            "model": "endex:wyrmwood_log"
+        }
+    }
+}

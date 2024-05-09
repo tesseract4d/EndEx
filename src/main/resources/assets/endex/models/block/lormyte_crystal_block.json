@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+	"textures": {
+	    "all": "endex:blocks/lormyte_crystal_block"
+    }
+}

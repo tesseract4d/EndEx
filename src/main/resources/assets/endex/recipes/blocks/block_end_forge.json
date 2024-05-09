@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "222",
+	"303", 
+        "101"     
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "endex:end_stone_pillar"
+        },
+	"1":
+        {
+            "item": "minecraft:purpur_block"
+        },
+	"2":
+        {
+            "item": "endex:chiseled_end_bricks"
+        },
+	"3":
+        {
+            "item": "endex:death_essence"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:end_forge",
+        "count": 1
+    }
+}

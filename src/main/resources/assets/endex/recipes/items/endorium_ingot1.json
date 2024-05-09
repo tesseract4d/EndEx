@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"      
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "endex:endorium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:ingot_endorium",
+        "count": 9
+    }
+}

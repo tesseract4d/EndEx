@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": {"model": "endex:corrupted_tall_grass"},
+    "inventory": {"model": "endex:corrupted_tall_grass"}
+  }
+}

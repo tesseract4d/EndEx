@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "endex:blocks/crop_dragonite_0"
+    }
+}

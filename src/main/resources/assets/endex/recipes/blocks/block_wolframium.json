@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "000", 
+        "000",
+        "000"      
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "endex:ingot_wolframium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:wolframium",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": {"model": "endex:corrupted_leaves"},
+    "inventory": {"model": "endex:corrupted_leaves"}
+  }
+}

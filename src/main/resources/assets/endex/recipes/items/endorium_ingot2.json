@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endex:raw_endorium"
+    },
+	{
+      "item": "endex:raw_endorium"
+    },
+	{
+      "item": "endex:raw_endorium"
+    },
+    {
+      "item": "endex:raw_endorium"
+    }
+  ],
+  "result": 
+    {
+        "item": "endex:ingot_endorium",
+        "count": 1
+    }
+}

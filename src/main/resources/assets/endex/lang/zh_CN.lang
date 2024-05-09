@@ -1,0 +1,259 @@
+# Tab -
+itemGroup.endertab=End Expansion: Legacy
+
+# Items -
+item.ingot_endorium.name=末影锭
+item.ingot_wolframium.name=钨锭
+item.shard_obsidian.name=黑曜石碎片
+item.raw_endorium.name=生末影锭
+item.dragonite_seeds.name=龙梅种子
+item.ender_bow.name=末影弓
+item.ender_sword.name=末地术士巴克莱之剑
+item.end_essence.name=末地精华
+item.advanced_ender_pearl.name=高级末影珍珠
+item.end_shard.name=末影碎片
+item.end_rune.name=末影符文
+item.lormyte_crystal.name=洛米特水晶
+item.ender_string.name=生命之线
+item.world_mirror.name=世界之镜
+item.dragonite_tea.name=龙梅茶
+item.angel_feather.name=天使之羽
+item.dragon_scales.name=龙鳞
+item.death_essence.name=熵之本质
+item.catalyst.name=黑曜石粉
+item.end_record.name=末影唱片
+item.sword_shard.name=Broken Sword Part
+item.ingot_infused.name=Infused Endorium
+item.wolframium_nugget.name=Tungsten Nugget
+
+# Blocks -
+tile.endorium.name=末影块
+tile.wolframium.name=钨块
+tile.end_stone_pillar.name=末地石柱
+tile.end_stone_smooth.name=平滑末地石
+tile.purpur_lamp.name=紫珀灯
+tile.crop_dragonite.name=龙梅
+tile.crop_ender_flower.name=末影花
+tile.essence_ore.name=精华矿
+tile.phantom.name=幽灵方块
+tile.lormyte_crystal.name=洛米特块
+tile.smooth_lormyte.name=洛米特块
+tile.entropy_end_stone.name=熵之末地石
+tile.wolframium_ore.name=钨矿
+tile.rune.name=符文块
+tile.e_end_bricks_stairs.name=末地石台阶
+tile.smooth_end_stone_stairs.name=平滑末地石台阶
+tile.e_end_bricks_wall.name=末地石墙
+tile.smooth_end_stone_wall.name=平滑末地石墙
+tile.e_purpur_wall.name=紫珀墙
+tile.end_magma.name=末地岩浆块
+tile.end_forge.name=虚空冶炼炉
+tile.dragon_essence.name=龙之精华矿
+tile.entropy_user.name=物质实化机
+tile.broken_ender_flower.name=Broken Enderemus
+tile.chiseled_end_bricks.name=Chiseled End Bricks
+
+# Tools -
+item.tool_axe_endorium.name=末影斧
+item.tool_pickaxe_endorium.name=末影镐
+item.tool_sword_endorium.name=末影剑
+item.tool_hoe_endorium.name=末影锄
+item.tool_shovel_endorium.name=末影铲
+item.tool_axe_wolframium.name=钨斧
+item.tool_pickaxe_wolframium.name=钨镐
+item.tool_sword_wolframium.name=钨剑
+item.tool_hoe_wolframium.name=钨锄
+item.tool_shovel_wolframium.name=钨铲
+item.tool_hammer_iron.name=大锤
+item.tool_magnifier.name=马尼蒂斯
+item.entropy_wand.name=熵之杖
+
+# Armors
+item.armour_helmet_helmet.name=黑曜石头盔
+item.armour_chestplate_obsidian.name=黑曜石胸甲
+item.armour_leggings_obsidian.name=黑曜石护腿
+item.armour_boots_obsidian.name=黑曜石靴子
+item.armour_helmet_dragon.name=龙鳞头盔
+item.armour_chestplate_dragon.name=龙鳞胸甲
+item.armour_leggings_dragon.name=龙鳞护腿
+item.armour_boots_dragon.name=龙鳞靴子
+
+# Food
+item.food_ender_flesh.name=末影腐肉
+item.food_dragonite_berries.name=龙梅浆果
+item.food_chorus_soup.name=紫颂汤
+
+# Entities
+entity.endguard.name=末地守卫
+entity.watcher.name=观察者
+entity.endlord.name=末地术士巴克莱
+entity.chronologist.name=年代学者
+entity.cold_fireball.name=Cold Fireball
+entity.Villager.endex.nether_explorer.name=下界探险家
+entity.Villager.endex.end_explorer.name=末地探险家
+entity.Villager.endex.overworld_explorer.name=主世界探险家
+
+# Compat
+modifier.endorium.name=渴望
+modifier.endorium.desc=�oWhere is physics!?�r\nCritical strike increases attack speed.
+modifier.wolframium.name=Moon Voice
+modifier.wolframium.desc=�oThe loneliness echo...�r\nGives strength on a full moon.
+material.endorium.name=末影锭
+material.wolframium.name=钨锭
+
+# Book
+item.endex.book.name=末地之书
+info.endex.book.landing=从我找到末地的时候起，已经过了很多时间。我开始怀疑我是否看到了一切，发现并研究了一切，我想是时候开始新的旅程了！
+info.endex.book.subtitle=你的探索
+
+# Enchants
+enchantment.shulker_core=潜影之心
+enchantment.ender_core=末影之心
+enchantment.ender_killer=Ender Killer
+
+# Other
+tile.ender_sword.tooltip=右键进行传送
+tile.a_pearl.tooltip=No more delay!
+tile.deather.tooltip=Magnet for mobs
+tile.deather_mode.tooltip=Magnet mode
+tile.deather_mode.off=Pulling
+tile.deather_mode.on=Repulsion
+tile.mirror.tooltip_0=Teleports to zero coordinates
+tile.mirror.tooltip_1=We are not responsible for the consequences
+tile.soup.tooltip=Looks tasty
+tile.lormyte.tooltip=Appears in the Nether
+tile.flesh.tooltip=Can improve eyesight
+tile.dragon_essence.tooltip=Small crystals that slowly grow
+tile.essence.tooltip=Substance that appearing among obsidian
+tile.user.tooltip=Allows to double some resources
+tile.tea.tooltip=A Chorus Fruit alternative
+tile.rune.tooltip=也许要试着用紫色的方块来包围它？
+tile.forge.tooltip=会烧制在其上方的矿物
+tile.wand.tooltip=将东西转化为它们被破坏时的样子
+tile.ender_lord.rage_1=王: 你。。。你还在战斗？
+tile.ender_lord.rage_2=王: 你是要杀死所有人吗？
+tile.ender_lord.rage_3=王: 你什么也不了解！
+tile.ender_lord.rage_4=王: 想要崛起先要堕落！
+tile.ender_lord.wither=王: 你不能将成果和制造者相比！
+tile.ender_lord.lord=王: 这不公平！
+tile.ender_lord.name=王
+tile.catalyst.tooltip=就像触媒
+container.entropy_user=物质实化机
+item.endex.record.end.desc=犹治 - 虚空
+
+# Banners
+item.banner.endex_rune.white=White Rune
+item.banner.endex_rune.black=Black Rune
+item.banner.endex_rune.blue=Blue Rune
+item.banner.endex_rune.red=Red Rune
+item.banner.endex_rune.gray=Gray Rune
+item.banner.endex_rune.yellow=Yellow Rune
+item.banner.endex_rune.silver=Light Gray Rune
+item.banner.endex_rune.purple=Purple Rune
+item.banner.endex_rune.cyan=Cyan Rune
+item.banner.endex_rune.pink=Pink Rune
+item.banner.endex_rune.green=Green Rune
+item.banner.endex_rune.lime=Lime Rune
+item.banner.endex_rune.lightBlue=Light Blue Rune
+item.banner.endex_rune.magenta=Magenta Rune
+item.banner.endex_rune.orange=Orange Rune
+item.banner.endex_end.white=White Symbol
+item.banner.endex_end.black=Black Symbol
+item.banner.endex_end.blue=Blue Symbol
+item.banner.endex_end.red=Red Symbol
+item.banner.endex_end.gray=Gray Symbol
+item.banner.endex_end.yellow=Yellow Symbol
+item.banner.endex_end.silver=Light Gray Symbol
+item.banner.endex_end.purple=Purple Symbol
+item.banner.endex_end.cyan=Cyan Symbol
+item.banner.endex_end.pink=Pink Symbol
+item.banner.endex_end.green=Green Symbol
+item.banner.endex_end.lime=Lime Symbol
+item.banner.endex_end.lightBlue=Light Blue Symbol
+item.banner.endex_end.magenta=Magenta Symbol
+item.banner.endex_end.orange=Orange Symbol
+item.banner.endex_pearl.white=White Pearl
+item.banner.endex_pearl.black=Black Pearl
+item.banner.endex_pearl.blue=Blue Pearl
+item.banner.endex_pearl.red=Red Pearl
+item.banner.endex_pearl.gray=Gray Pearl
+item.banner.endex_pearl.yellow=Yellow Pearl
+item.banner.endex_pearl.silver=Light Gray Pearl
+item.banner.endex_pearl.purple=Purple Pearl
+item.banner.endex_pearl.cyan=Cyan Pearl
+item.banner.endex_pearl.pink=Pink Pearl
+item.banner.endex_pearl.green=Green Pearl
+item.banner.endex_pearl.lime=Lime Pearl
+item.banner.endex_pearl.lightBlue=Light Blue Pearl
+item.banner.endex_pearl.magenta=Magenta Pearl
+item.banner.endex_pearl.orange=Orange Pearl
+
+# Advancements
+advancements.endex.root.title=End Expansion: Legacy
+advancements.endex.root.description=The new beginning!
+
+advancements.endex.end_stone.title=Souvenir
+advancements.endex.end_stone.description=Collect: End Stone
+
+advancements.endex.raw_endorium.title=The Densest Material
+advancements.endex.raw_endorium.description=Collect: Endorium
+
+advancements.endex.crop_ender_flower.title=Mutation
+advancements.endex.crop_ender_flower.description=Collect: Ender`s Flower
+
+advancements.endex.obsidian_armor.title=I need moonlight!
+advancements.endex.obsidian_armor.description=Equip: Obsidian Armor
+
+advancements.endex.endermen_curse.title=How ironic...
+advancements.endex.endermen_curse.description=Collect: Endorium Sword
+
+advancements.endex.ender_flesh.title=Delicacy
+advancements.endex.ender_flesh.description=Eat: Ender`s Flesh
+
+advancements.endex.iron_hammer.title=Hephaestus
+advancements.endex.iron_hammer.description=Collect: Sledgehammer
+
+advancements.endex.ender_sword.title=Lord of the End
+advancements.endex.ender_sword.description=Collect: End-Mage Barclay`s Sword
+
+advancements.endex.mine_essence.title=Power of Obsidian
+advancements.endex.mine_essence.description=Obtain: Essence Ore
+
+advancements.endex.end_rune.title=I see you...
+advancements.endex.end_rune.description=Collect: Purpur Rune
+
+advancements.endex.lormyte_crystal.title=Something new
+advancements.endex.lormyte_crystal.description=Obtain: Lormyte Crystal
+
+advancements.endex.tool_magnifier.title=Duet of Metals
+advancements.endex.tool_magnifier.description=Collect: Magnetor
+
+advancements.endex.ingot_wolframium.title=He melted!
+advancements.endex.ingot_wolframium.description=Collect: Tungsten Ingot
+
+advancements.endex.lord.title=Last of them
+advancements.endex.lord.description=Collect: String of Life
+
+advancements.endex.world_mirror.title=Also try Terraria
+advancements.endex.world_mirror.description=Collect: World Mirror
+
+advancements.endex.food_chorus_soup.title=Like a borscht!
+advancements.endex.food_chorus_soup.description=Collect: Chorus Soup
+
+advancements.endex.end_forge.title=World in fire
+advancements.endex.end_forge.description=Collect: Void Forge
+
+advancements.endex.dragon_scales.title=EleC0TroN shards
+advancements.endex.dragon_scales.description=Collect: Dragon Scales
+
+advancements.endex.entropy.title=Mighty Collector
+advancements.endex.entropy.description=Collect: Xorcite
+
+advancements.endex.entropy_user.title=Dangerous toy
+advancements.endex.entropy_user.description=Collect: Materializer
+entity.angry_enderman.name=愤怒的末影人
+item.ash.name=灰
+tile.ash_block.name=灰块
+tile.ender_lord.rage_5=王: 你看了这个吗？
+tile.over_portal.name=主世界传送门
+tile.tech_portal.name=雕纹紫珀块

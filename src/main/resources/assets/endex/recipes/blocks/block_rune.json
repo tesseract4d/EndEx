@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "000", 
+        "212",
+        "000"      
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "minecraft:purpur_block"
+        },
+
+        "1":
+        {
+            "item": "endex:end_rune"
+        },
+
+        "2":
+        {
+            "item": "endex:end_essence"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:rune",
+        "count": 1
+    }
+}

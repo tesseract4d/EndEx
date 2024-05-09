@@ -1,0 +1,6 @@
+{
+	"parent": "block/wall_side",
+	"textures": {
+		"wall": "endex:blocks/end_stone_smooth"
+	}
+}

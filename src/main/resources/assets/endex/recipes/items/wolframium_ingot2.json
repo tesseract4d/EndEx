@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endex:wolframium"
+    }
+  ],
+  "result": 
+    {
+        "item": "endex:ingot_wolframium",
+        "count": 9
+    }
+}

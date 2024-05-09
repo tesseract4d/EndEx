@@ -1,0 +1,6 @@
+{
+    "parent": "endex:item/ender_bow",
+    "textures": {
+        "layer0": "endex:items/ender_bow_pulling_1"
+    }
+}

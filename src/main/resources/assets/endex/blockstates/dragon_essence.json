@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "endex:dragon_essence_1" },
+        "age=1": { "model": "endex:dragon_essence_2" },
+        "age=2": { "model": "endex:dragon_essence_2" },
+        "age=3": { "model": "endex:dragon_essence_3" },
+		"age=4": { "model": "endex:dragon_essence_3" },
+        "age=5": { "model": "endex:dragon_essence_3" },
+		"age=6": { "model": "endex:dragon_essence_3" },
+		"age=7": { "model": "endex:dragon_essence_3" }
+    }
+}

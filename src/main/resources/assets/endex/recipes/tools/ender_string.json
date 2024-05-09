@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "0  ",
+        " 0 ",
+        "  0"        
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "endex:ingot_infused"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:ender_string",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "0 0", 
+        "010",
+	"000"  
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "endex:dragon_scales"
+        },
+
+        "1":
+        {
+            "item": "endex:ender_string"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:armour_chestplate_dragon",
+        "count": 1
+    }
+}

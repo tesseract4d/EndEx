@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": {"model": "endex:wyrmwood_leaves"},
+    "inventory": {"model": "endex:wyrmwood_leaves"}
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " 23", 
+        " 01",
+	"0  "    
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "minecraft:stick"
+        },
+
+        "1":
+        {
+            "item": "endex:ingot_wolframium"
+        },
+
+	"2":
+        {
+            "item": "endex:ingot_endorium"
+        },
+        "3":
+        {
+            "item": "endex:end_essence"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:tool_magnifier",
+        "count": 1
+    }
+}

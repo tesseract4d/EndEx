@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "endex:food_dragonite_berries"
+    },
+	{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": 
+    {
+        "item": "endex:dragonite_tea",
+        "count": 1
+    }
+}

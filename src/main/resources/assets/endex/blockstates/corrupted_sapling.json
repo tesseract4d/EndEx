@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "stage=0": {"model": "endex:corrupted_sapling"},
+    "stage=1": {"model": "endex:corrupted_sapling"}
+  }
+}

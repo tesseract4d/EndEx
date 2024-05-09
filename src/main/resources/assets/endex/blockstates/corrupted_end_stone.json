@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "endex:corrupted_end_stone" },
+        "inventory": { "model": "endex:corrupted_end_stone" }
+    }
+}

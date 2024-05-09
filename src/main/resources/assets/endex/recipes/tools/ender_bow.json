@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "10 ", 
+        "1 2",
+	"10 "    
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "minecraft:stick"
+        },
+
+        "1":
+        {
+            "item": "minecraft:string"
+        },
+
+	"2":
+        {
+            "item": "endex:ingot_endorium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:ender_bow",
+        "count": 1
+    }
+}

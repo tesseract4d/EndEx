@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "020",
+	"030", 
+        "030"     
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "endex:end_stone_smooth"
+        },
+	"3":
+        {
+            "item": "endex:death_essence"
+        },
+	"2":
+        {
+            "item": "minecraft:glass"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:entropy_user",
+        "count": 1
+    }
+}

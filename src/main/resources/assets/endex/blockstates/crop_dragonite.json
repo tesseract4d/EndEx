@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "endex:crop_dragonite_0" },
+        "age=1": { "model": "endex:crop_dragonite_1" },
+        "age=2": { "model": "endex:crop_dragonite_1" },
+        "age=3": { "model": "endex:crop_dragonite_2" },
+        "age=4": { "model": "endex:crop_dragonite_2" },
+        "age=5": { "model": "endex:crop_dragonite_3" },
+        "age=6": { "model": "endex:crop_dragonite_3" },
+        "age=7": { "model": "endex:crop_dragonite_4" }
+    }
+}

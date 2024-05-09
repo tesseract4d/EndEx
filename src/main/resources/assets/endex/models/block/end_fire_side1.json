@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_side",
+    "textures": {
+        "particle": "endex:blocks/end_fire_layer_1",
+        "fire": "endex:blocks/end_fire_layer_1"
+    }
+}

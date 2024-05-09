@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "endex:blocks/end_stone_smooth",
+        "side": "endex:blocks/end_stone_pillar"
+    }
+}

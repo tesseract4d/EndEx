@@ -1,0 +1,6 @@
+{
+  "variants": {
+        "normal": { "model": "endex:firethorn" },
+        "inventory": { "model": "endex:firethorn" }
+    }
+}

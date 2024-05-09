@@ -1,0 +1,10 @@
+{
+"the_void": {
+    "sounds": [
+      {
+        "name": "endex:records/the_void",
+        "stream": true
+      }
+    ]
+  }
+}

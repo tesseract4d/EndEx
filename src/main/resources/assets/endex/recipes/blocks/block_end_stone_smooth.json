@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "00", 
+        "00"     
+    ],
+    
+    "key":
+    {
+        "0":
+        {
+            "item": "minecraft:end_stone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "endex:end_stone_smooth",
+        "count": 4
+    }
+}

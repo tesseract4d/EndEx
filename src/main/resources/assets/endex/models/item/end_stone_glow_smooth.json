@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+	"textures": {
+	    "all": "endex:blocks/end_stone_glow_smooth"
+    }
+}
