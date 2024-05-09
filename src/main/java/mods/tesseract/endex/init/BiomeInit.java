@@ -1,6 +1,5 @@
 package mods.tesseract.endex.init;
 
-import mods.tesseract.endex.world.biomes.BiomeCorruption;
 import mods.tesseract.endex.world.biomes.BiomeEndBase;
 import mods.tesseract.endex.world.biomes.BiomeEndDesert;
 import mods.tesseract.endex.world.biomes.BiomeStygianGrowth;
@@ -26,7 +25,6 @@ public class BiomeInit {
     public static Biome STYGIAN_GROWTH;
     public static Biome END_DESERT;
     public static Biome OUTER;
-    public static Biome CORRUPTION;
 
     public static void registerBiomes() {
         STYGIAN_GROWTH = registerBiome(new BiomeStygianGrowth(new BiomeProperties("Stygian Growth").setTemperature(Biomes.SKY.getDefaultTemperature()).setRainfall(Biomes.SKY.getRainfall()).setRainDisabled()), "stygian_growth", Type.END);
@@ -46,8 +44,6 @@ public class BiomeInit {
             }
         }, "outer", Type.END);
         OUTER.getSpawnableList(MONSTER).clear();
-        CORRUPTION = registerBiome(new BiomeCorruption(new BiomeProperties("Corruption").setTemperature(Biomes.SKY.getDefaultTemperature()).setRainfall(Biomes.SKY.getRainfall()).setRainDisabled()), "corruption", Type.END);
-        CORRUPTION.getSpawnableList(MONSTER).add(new Biome.SpawnListEntry(EntitySilverfish.class, 25, 4, 4));
     }
 
     private static Biome registerBiome(Biome biome, String name, Type... types) {

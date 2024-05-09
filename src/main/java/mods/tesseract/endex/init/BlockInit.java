@@ -1,7 +1,6 @@
 package mods.tesseract.endex.init;
 
 import mods.tesseract.endex.mod.blocks.*;
-import mods.tesseract.endex.world.feature.WorldGenCorruptedTree;
 import mods.tesseract.endex.world.feature.WorldGenEnderCanopy;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.MapColor;
@@ -78,24 +77,5 @@ public class BlockInit {
     public static final Block STYGIAN_TALL_GRASS = new BlockEndTallGrass("stygian_tall_grass");
     public static final Block STYGIAN_GLOW = new BlockEndBush("stygian_glow").setLightLevel(5);
     public static final Block FIRETHORN = new BlockEndCactus("firethorn");
-    public static final Block CORRUPTED_END_STONE = new BlockEndGrass("corrupted_end_stone", Material.ROCK);
-    public static final Block CORRUPTED_TALL_GRASS = new BlockEndTallGrass("corrupted_tall_grass");
-    public static final Block CORRUPTED_FERN = new BlockEndTallGrass("corrupted_fern");
-    public static final Block CORRUPTED_FERN_2 = new BlockEndTallGrass("corrupted_fern_2");
-    public static final Block CORRUPTED_LEAVES = new BlockEndLeaves("corrupted_leaves") {
-        @Override
-        public Item getItemDropped(IBlockState state, Random rand, int fortune) {
-            return Item.getItemFromBlock(BlockInit.CORRUPTED_SAPLING);
-        }
-    };
-    public static final BlockEndBush CORRUPTED_SAPLING = new BlockEndSapling("corrupted_sapling") {
-        @Override
-        public void generateTree(World worldIn, BlockPos pos, IBlockState state, Random rand) {
-            if (!net.minecraftforge.event.terraingen.TerrainGen.saplingGrowTree(worldIn, rand, pos))
-                return;
-            WorldGenerator tree = new WorldGenCorruptedTree(true);
-            tree.generate(worldIn, rand, pos);
-        }
-    };
     public static Block ACID;
 }
